@@ -1,0 +1,88 @@
+{"signals":[
+    {
+      "agaId": 11,
+      "agaType": "INTEGER",
+      "agaName": "TESTSIGNAL1",
+      "mqttTopic": "command/canadapter/testsignal1",
+      "fromAga": true
+    },
+    {
+      "agaId": 294,
+      "agaType": "FLOAT",
+      "agaName": "SECONDROAD_MAX_RECOMMENDED_SPEED",
+      "mqttTopic": "data/canadapter/maxrecommendedspeed",
+      "toAga": true
+    },
+    {
+      "agaId": 260,
+      "agaType": "FLOAT",
+      "agaName": "FMS_ACCELERATOR_PEDAL_POSITION_1",
+      "mqttTopic": "data/canadapter/acceleratorpedal",
+      "toAga": true
+    },
+    {
+      "agaId": 262,
+      "agaType": "FLOAT",
+      "agaName": "FMS_ENGINE_SPEED",
+      "mqttTopic": "data/canadapter/enginespeed",
+      "toAga": true
+    },
+    {
+      "agaId": 264,
+      "agaType": "SHORT",
+      "agaName": "FMS_CURRENT_GEAR",
+      "mqttTopic": "data/canadapter/gear",
+      "toAga": true
+    },
+    {
+      "agaId": 282,
+      "agaType": "UINT8",
+      "agaName": "FMS_VEHICLE_MOTION",
+      "mqttTopic": "data/canadapter/motion",
+      "toAga": true
+    },
+    {
+      "agaId": 290,
+      "agaType": "UINT8",
+      "agaName": "FMS_DIRECTION_INDICATOR",
+      "mqttTopic": "data/canadapter/direction",
+      "toAga": true
+    },
+    {
+      "agaId": 315,
+      "agaType": "SHORT",
+      "agaName": "FMS_ENGINE_COOLANT_TEMPERATURE",
+      "mqttTopic": "data/canadapter/enginetemperature",
+      "toAga": true
+    },
+    {
+      "agaId": 317,
+      "agaType": "UINT8",
+      "agaName": "FMS_BRAKE_SWITCH",
+      "mqttTopic": "data/canadapter/brakepedalpressed",
+      "toAga": true
+    },
+    {
+      "agaId": 320,
+      "agaType": "FLOAT",
+      "agaName": "FMS_WHEEL_BASED_SPEED",
+      "mqttTopic": "data/canadapter/vehiclespeed",
+      "toAga": true
+    },
+    {
+      "agaId": 324,
+      "agaType": "FLOAT",
+      "agaName": "FMS_AMBIENT_AIR_TEMPERATURE",
+      "mqttTopic": "data/canadapter/airtemperature",
+      "toAga": true
+    },
+    {
+      "agaId": 325,
+      "agaType": "FLOAT",
+      "agaName": "FMS_FUEL_LEVEL_1",
+      "mqttTopic": "data/canadapter/fuellevel",
+      "toAga": true
+    }
+]}
+
+

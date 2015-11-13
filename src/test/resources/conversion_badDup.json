@@ -1,0 +1,16 @@
+{"signals":[
+    {
+      "agaId": 264,
+      "agaType": "SHORT",
+      "agaName": "FMS_CURRENT_GEAR",
+      "mqttTopic": "data/canadapter/gear",
+      "toAga": true
+    },
+    {
+      "agaId": 264,
+      "agaType": "SHORT",
+      "agaName": "FMS_CURRENT_GEAR",
+      "mqttTopic": "data/canadapter/secondgear",
+      "toAga": true
+    }
+]}

@@ -1,0 +1,51 @@
+{"signals":[
+    {
+      "agaId": -11,
+      "agaType": "INTEGER",
+      "agaName": "TESTSIGNAL1",
+      "mqttTopic": "command/canadapter/testsignal1",
+      "fromAga": true
+    },
+    {
+      "agaId": 0,
+      "agaType": "INTEGER",
+      "agaName": "TESTSIGNAL1",
+      "mqttTopic": "command/canadapter/testsignal1",
+      "fromAga": true
+    },
+    {
+      "agaId": 123456789,
+      "agaType": "FLOAT",
+      "agaName": "SECONDROAD_MAX_RECOMMENDED_SPEED",
+      "mqttTopic": "data/canadapter/maxrecommendedspeed",
+      "toAga": true
+    },
+    {
+      "agaId": 260,
+      "agaType": "SPECIALTYPE",
+      "agaName": "FMS_ACCELERATOR_PEDAL_POSITION_1",
+      "mqttTopic": "data/canadapter/acceleratorpedal",
+      "toAga": true
+    },
+    {
+      "agaId": 262,
+      "agaType": "FLOAT",
+      "agaName": "FMS_ENGINE_SPEED",
+      "toAga": true
+    },
+    {
+      "agaId": 264,
+      "agaType": "SHORT",
+      "agaName": "FMS_CURRENT_GEAR",
+      "mqttTopic": "data/canadapter/gear",
+      "toAga": true,
+      "agaMultiplier": 0
+    },
+    {
+      "agaId": 264,
+      "agaType": "SHORT",
+      "agaName": "FMS_CURRENT_GEAR",
+      "mqttTopic": "data/canadapter/gear",
+      "toAga": true
+    }
+]}

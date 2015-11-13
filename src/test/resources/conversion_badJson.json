@@ -1,0 +1,8 @@
+{"signals":[
+      "agaId": 11,
+      "agaType": "INTEGER",
+      "agaName": "TESTSIGNAL1",
+      "mqttTopic": "command/canadapter/testsignal1",
+      "fromAga": true
+    }
+]}
