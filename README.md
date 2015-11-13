@@ -405,4 +405,5 @@ Niklas Melleg&aring;rd at Viktoria Swedish ICT has provided invalueable help wit
 
 TODO
 ----
-* Change version number in POM before releasing
+* 
+
